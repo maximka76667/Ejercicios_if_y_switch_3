@@ -7,7 +7,7 @@ public class Ej1 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		
-		System.out.print("Tu accion: ");
+		System.out.print("Tu accion (+, -, *, /, %, %/): ");
 		String act = input.nextLine();
 		
 		System.out.print("a: ");
